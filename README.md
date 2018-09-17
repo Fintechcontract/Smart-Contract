@@ -11,9 +11,10 @@ o	Details
 	Address
 	Bank account 
 •	C is the intermediate company who produces the coins
-o	Define range
+o	Define range: hiden value
 	Set up a maximum amount of trading
 	Set up a minimum amount
+o	Define gas
 •	A offers Z exchange rate
 •	B accepts/declines Z exchange rate
 o	If matches, deal is accepted: X amount of Y currency + Z exchange rate
